@@ -1,12 +1,18 @@
-# Hi 👋, I'm Akash S
+# Hi 👋 I'm Akash S
+
+### Angular | Ionic | NestJS | Full Stack Developer
+
+💼 Product Developer with 2.5+ years of experience building scalable web and mobile applications.
+
+---
 
 ## 👨‍💻 About Me
 
-- 💼 Product Developer at Rakass Technologies Pvt Ltd
-- 📍 Chennai, Tamil Nadu
-- 💻 2.8+ Years of Experience
+- 📍 Chennai, Tamil Nadu, India
+- 💼 Product Developer @ Rakass Technologies Pvt Ltd
 - 📱 Angular & Ionic Mobile Application Developer
-- 🚀 Currently Learning NestJS, Prisma & PostgreSQL
+- 🚀 Learning NestJS, Prisma & PostgreSQL
+- 💡 Passionate about building production-ready applications
 
 ---
 
@@ -16,9 +22,10 @@
 - Angular
 - Ionic
 - TypeScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Bootstrap
+- JavaScript
 
 ### Backend
 - NestJS
@@ -39,21 +46,93 @@
 - Postman
 - JMeter
 - VS Code
+- Android Studio
 
 ---
 
-## 🚀 Current Projects
+# 🚀 Featured Projects
 
-- Food Ordering Application
-- QR Ordering System
-- POS Application
-- NestJS Backend APIs
+## 🍽️ Institution Food Ordering Application
+
+Production-ready food ordering application developed for colleges and institutions.
+
+### Features
+
+- QR Code Ordering
+- Student Login
+- JWT Authentication
+- Cart Management
+- Online Payment
+- Live Order Tracking
+- Kitchen Order Token (KOT)
+- POS Integration
+- Razorpay / PayU / CCAvenue Integration
+- Push Notifications
+
+**Tech Stack**
+
+Angular • Ionic • PHP • MySQL • REST API
 
 ---
 
-## 📫 Contact
+## 🎓 Placi5 – Alumni Job Referral Platform
 
-📧 akash0532003@gmail.com
+A mobile application connecting students, alumni and recruiters.
 
-🔗 LinkedIn
+### Features
+
+- Alumni Registration
+- Job Referrals
+- Role Based Login
+- Razorpay Payment
+- Responsive Mobile UI
+
+**Tech Stack**
+
+Angular • Ionic • PHP • MySQL
+
+---
+
+## ⚙️ NestJS Authentication API (Currently Building)
+
+Backend REST API using modern architecture.
+
+### Features
+
+- User Registration
+- Login
+- JWT Authentication
+- Prisma ORM
+- PostgreSQL
+- Swagger API
+- Password Encryption
+
+**Tech Stack**
+
+NestJS • Prisma • PostgreSQL • JWT
+
+---
+
+## 📚 Currently Learning
+
+- NestJS
+- Prisma ORM
+- PostgreSQL
+- Docker
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+📧 Email
+akash0532003@gmail.com
+
+💼 LinkedIn
 https://linkedin.com/in/akash-s-81372a265
+
+🐙 GitHub
+https://github.com/Akash0532003
+
+---
+⭐ Thanks for visiting my profile!
